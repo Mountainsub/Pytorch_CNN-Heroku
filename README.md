@@ -1,7 +1,7 @@
 
 <div style = "text-align:center;" ><img src="https://user-images.githubusercontent.com/70077254/116654028-4a961a00-a9c3-11eb-945c-b31f681329d8.PNG">
-![キャプチャ3](https://user-images.githubusercontent.com/70077254/116654030-4b2eb080-a9c3-11eb-9dfa-8c8108f1b9e6.PNG)
- <div style = "text-align:center;" >
+</br><img src="https://user-images.githubusercontent.com/70077254/116654030-4b2eb080-a9c3-11eb-9dfa-8c8108f1b9e6.PNG">
+ </div>
  ・CIFAR-10, ディープラーニングを用いた画像認識アプリ
 　→yudaiyamashita/Pytorch_CNN-local (github.com)
 　→https://pytorch-cnn-yudai.herokuapp.com/
